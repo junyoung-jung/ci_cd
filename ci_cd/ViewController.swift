@@ -8,12 +8,20 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    
+    @IBOutlet weak var label: UILabel!
+    
+    var viewModel = ViewModel()
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        viewModel = ViewModel()
     }
 
-
+    @IBAction func buttonTapped(_ sender: UIButton) {
+        let text = viewModel.transform(input: .init(inputString: "buttonTapped")).outputString
+        label.text = text
+    }
+    
 }
 
