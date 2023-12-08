@@ -8,7 +8,7 @@
 import UIKit
 
 class ViewController: UIViewController {
-    // test
+    // test one
     @IBOutlet weak var label: UILabel!
     
     var viewModel = ViewModel()
