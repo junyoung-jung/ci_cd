@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "556F22462B1DA9CB00E35992"
-               BuildableName = "ci_cd.app"
-               BlueprintName = "ci_cd"
+               BlueprintIdentifier = "551494162B22F389000FE884"
+               BuildableName = "ci_cd_dev.app"
+               BlueprintName = "ci_cd_dev"
                ReferencedContainer = "container:ci_cd.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -28,18 +28,6 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES"
       shouldAutocreateTestPlan = "YES">
-      <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "556F22632B1DAF0000E35992"
-               BuildableName = "ci_cdTests.xctest"
-               BlueprintName = "ci_cdTests"
-               ReferencedContainer = "container:ci_cd.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
-      </Testables>
    </TestAction>
    <LaunchAction
       buildConfiguration = "Debug"
@@ -55,9 +43,9 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "556F22462B1DA9CB00E35992"
-            BuildableName = "ci_cd.app"
-            BlueprintName = "ci_cd"
+            BlueprintIdentifier = "551494162B22F389000FE884"
+            BuildableName = "ci_cd_dev.app"
+            BlueprintName = "ci_cd_dev"
             ReferencedContainer = "container:ci_cd.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -72,9 +60,9 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "556F22462B1DA9CB00E35992"
-            BuildableName = "ci_cd.app"
-            BlueprintName = "ci_cd"
+            BlueprintIdentifier = "551494162B22F389000FE884"
+            BuildableName = "ci_cd_dev.app"
+            BlueprintName = "ci_cd_dev"
             ReferencedContainer = "container:ci_cd.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
